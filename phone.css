@@ -1,0 +1,304 @@
+.burger{
+    position: absolute;
+    cursor: pointer;
+    right: 30px;
+    top: 15px;
+
+}
+.line{
+    width: 33px;
+    background-color:black;
+    height: 4px;
+    margin: 5px 3px;
+}
+
+
+
+@media (max-width:500px){
+    .navbar ul li{
+        flex-direction: column;
+        text-align: center;
+    }
+    #navbar ul {
+        display: none;
+        flex-direction: column;
+        /* display: block; */
+        padding: 10px 10px;
+    }
+    .box{
+      max-width: 80%;
+      padding-left: 0;
+      font-size: 19px;
+    }
+    .bt{
+        
+        /* margin: 20px; */
+        padding: 19px 60px;
+    }
+    .bt2{
+        margin-left: 15px;
+        padding: 19px 60px;
+    }
+    .bt3 {
+        margin-top: 30px;
+        margin-left: 47px;
+        padding: 28px 78px;
+    }
+    .bt4 {
+        padding: 24px 46px;
+    }
+    #signup{
+        margin-top: 52px;
+    }
+    #beat{
+        font-size: 23px;
+        width: 80%;
+        margin: 32px 31px;
+        margin-bottom: 0px;
+    }
+    #about{
+        margin-top: 47px;
+        margin-left: 34px;
+    }
+    .dance{
+        margin-top: 31px;
+        margin-left: 30px;
+        font-size:60px 
+        
+    }
+    .box-container{
+        width: 627px;
+        margin-top: 30px;
+        flex-direction: column;
+    }
+    .box-container3 { 
+        padding: 7px 0px;
+        width: 90%;
+        /* display: block; */
+       flex-direction: column;
+    }
+    .box-container4 { 
+        margin-left: 90px;
+        padding: 7px 0px;
+        width: 90%;
+        flex-direction: column; 
+        /* display: block; */
+    }
+    .box-container5 { 
+        margin-left: 102px;
+        padding: 7px 0px;
+        width: 90%;
+        flex-direction: column; 
+        /* display: block; */
+    }
+    .boxes{
+       flex-direction: column; 
+       margin: 0px auto;
+    }
+    .boxes2{
+        flex-direction: column;
+        margin: 0px auto;
+    }
+    .box3{
+        flex-direction: column;
+        width: 80%;
+        padding-right: 199px;
+        height: 346px;
+    }
+    .box4{
+        flex-direction: column;
+        width: 80%;
+        padding-right: 199px;
+        height: 355px;
+    }
+    .box5{
+        flex-direction: column;
+        width: 80%;
+        margin-left: 0px;
+        padding-right: 199px;
+        height: 349px;
+    }
+    .para{
+        font-size: 20px;
+      margin-left: 4px;
+    }
+    .para2{
+        font-size: 20px;
+      margin-left: 4px;
+    }
+    .para3{
+        font-size: 20px;
+      margin-left: 4px;
+    }
+    .text{
+        margin-top: 15px;
+        font-size: 15px;
+        margin-left: 159px;
+        width: 90%;
+    }
+    .moni{
+        font-size: 22px;
+        margin-left: 0px;
+    }
+}
+.emrold{
+    font-size: 15px;
+    margin-left: 155px;
+    margin-top: 65px;
+    width: 90%;
+}
+.deni{
+    font-size: 20px;
+    margin-left: 0px;
+}
+#test{
+    margin-top: 63px;
+    margin-left: 173px;
+    width: 90%;
+}
+    .box-img{
+        flex-direction: column;
+     /* margin-inline: -131px; */
+    }
+      
+   .img img{
+    margin-top: 41px;
+    height: 330px;
+    margin-left: 0px;
+   }
+   #card-img{
+    margin-top: 6px;
+    height: 700px;
+}
+#card-img2{
+    margin-top: 21px;
+      height: 350px;
+  }
+  #card-img3{
+    margin-right: 6px;
+    margin-top: 8px;
+      height: 350px;
+  }
+  #card-img4{
+    margin-right: 6px;
+    margin-top: 8px;
+      height: 335px;
+  }
+   #home h1{
+    margin-top: 94px;
+    font-size: 39px;
+    text-align: center;
+        
+    }
+    #home h1,p {
+       
+        width: 100%;
+        font-size: 32px;
+        margin-left: 72px;
+        padding: 6px 6px;
+        text-align: center;
+             
+         }
+         .cont1{
+            padding: 45px 194px;
+         }
+         .cont{
+            padding: 45px 194px;
+         }
+    .btn{
+             padding: 16px 23px;
+             margin-left: 171px;
+         }
+  .form-container{
+    margin-top: 35px;
+      flex-direction: column;
+}
+.form{
+    padding: 0px 52px;
+    margin-right: 6px;
+}
+  #map{
+    height: 398px;
+    width: 158%;
+    margin-top: 0px;
+    margin-left: 39px;
+   
+  }
+ #contact-section{
+    width: 176%;
+    flex-direction: column; 
+ }
+ #contact{
+    font-size: 19px;
+    margin-left: 10px;
+ }
+ #class{ 
+    /* margin-bottom: 2px; */
+   margin-left: 2px;
+   /* margin-right: 3px; */
+ }
+ #ballent-dancer{
+    font-size: 18px;
+    padding: 83px 123px;
+    width: 80%;
+ }
+ .text1{
+    font-size: 30px;
+   margin-left: 0px;
+ }
+ .text2{
+    font-size: 30px;
+   margin-left: 0px;
+ }
+ #opening-hours{
+    font-size: 19px;
+    margin-top: 0px;
+    padding: 83px 123px;
+
+    width: 80%;
+ }
+ .hours {
+    font-size: 30px;
+    margin-left: 6px;
+    width: 90%;
+}
+.opening-section{
+    font-size: 32px;
+    margin-top: 0px;
+    margin-left: 150px;
+    flex-direction: column;
+}
+.hr {
+    width: 100%;
+     /* padding: 12px 0px; */
+    margin-left: 0px;
+}
+.sp1{
+    margin-left: 90px;
+}
+#shortcodes{
+    margin-top: 100px;
+    margin-left: 110px;
+    width: 90%;
+}
+.code{
+    font-size: 24px;
+    margin-left: 0px;
+
+}
+#news{
+    font-size: 19px;
+}
+footer{
+    font-size: 16px;
+    width: 170%;
+}  
+.head{
+    font-size: 40px;
+    flex-direction: column;
+}  
+.head2{
+    font-size: 40px;
+    flex-direction: column;
+}  
+   
